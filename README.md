@@ -1,0 +1,4 @@
+- 👋 Hi, I’m AShif.
+- 👀 I’m interested in coding and stuff. I am looking forward to learn new things about computer and technology..
+- 🌱 I’m currently studying in one of the top most institution in India, Vellore Institute of Technology..
+- 📫 My Insta account -> @ash_if_107
