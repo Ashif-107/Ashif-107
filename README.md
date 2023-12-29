@@ -25,6 +25,6 @@ Instagram
 <a href="https://discord.com/channels/@me">
 Discord
 </a> @Mugiwara-no-ash <br>
-<a href="https://ashif.neocities.org/Profile/">
+<a href="http://itzashif.me/">
 Website
 </a> My portfolio
