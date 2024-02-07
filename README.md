@@ -1,3 +1,9 @@
+## HELLOW GUYS :)
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+
+
+
 ## About ME 🐧
  - 👋 Hi, I’m Ashif.
  - 🎓 College Fresher.
@@ -6,17 +12,20 @@
  
 ## 🛠️ what am doing right now
 - 📚 dealing with college
-- </> improving programming languages (css, python, javascript, java)
+- </> improving programming skills
 - 💪 working on myself
-- 🕷️ meeting new people in discord
+- 🕷️ meeting new people in this contemporary world :)
 
-##  Softwares I Use 🧑‍💻
+##  Some Languages I know🧑‍💻
 <img src="https://user-images.githubusercontent.com/68557696/149619691-6ae25701-986e-4e7d-907b-8f4a5940765f.png" width="50px"></img>
+<img src="https://img.icons8.com/color/144/000000/c-programming.png" alt="mysql" width="50" height="50"/> 
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50px"></img>
 <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="50px"></img>
-<img src="https://user-images.githubusercontent.com/68557696/149619902-6c39bd93-9494-44a4-91f9-e9b6d2139899.png" width="50px"></img>
-<img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="50px"></img>
-<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="50px"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript logo"  />
+<img  alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img alt="MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
 
 ## 🤝 connect with me
 <a href="https://www.instagram.com/ash_if_107/?next=%2F">
