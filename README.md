@@ -5,7 +5,7 @@
 
 
 ## About ME 🐧
- - 👋 Hi, I’m Ashif.
+ - 👋 I’m Ashif.
  - 🎓 College Fresher.
  - 👀 I’m interested in coding and stuff. I am looking forward to learn new things about computer and technology..
  - 🌱 I’m currently studying in one of the top most institution in India, Vellore Institute of Technology..
@@ -16,18 +16,17 @@
 - 💪 working on myself
 - 🕷️ meeting new people in this contemporary world :)
 
-##  Some Languages I know🧑‍💻
-<img src="https://user-images.githubusercontent.com/68557696/149619691-6ae25701-986e-4e7d-907b-8f4a5940765f.png" width="50px"></img>
-<img src="https://img.icons8.com/color/144/000000/c-programming.png" alt="mysql" width="50" height="50"/> 
-<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50px"></img>
-<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="50px"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript logo"  />
-<img  alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img alt="Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img alt="MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+## Some languages I speak with machines🧑‍💻
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cpp&theme=dark)](https://skillicons.dev)
+
+<hr>
+
+[![My Skills](https://skillicons.dev/icons?i=git,mysql,mongodb,nodejs,express&theme=dark)](https://skillicons.dev)
 
 
 ## 🤝 connect with me
+
+[![My Skills](https://skillicons.dev/icons?i=instagram,discord,linkedin)](https://skillicons.dev)<br>
 <a href="https://www.instagram.com/ash_if_107/?next=%2F">
 Instagram
 </a> @ash_if_107<br>
@@ -36,4 +35,8 @@ Discord
 </a> @Mugiwara-no-ash <br>
 <a href="http://itzashif.me/">
 Website
-</a> My portfolio
+</a> My portfolio<br>
+<a href="https://www.linkedin.com/in/mohamed-ashif-k-m-b7b328290/">
+Linkedin
+</a>Mohamed Ashif K M
+
