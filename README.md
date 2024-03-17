@@ -21,7 +21,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=git,mysql,mongodb,nodejs,express&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,mysql,mongodb,express,react,nodejs&theme=dark)](https://skillicons.dev)
 
 
 ## 🤝 connect with me
