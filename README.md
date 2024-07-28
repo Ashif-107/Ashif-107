@@ -1,42 +1,39 @@
-## HELLOW GUYS :)
+![image](https://github.com/user-attachments/assets/b2d281e0-ef9b-4d30-9eee-be1a2e485c00)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
-
-
-
-## About ME 🐧
- - 👋 I’m Ashif.
- - 🎓 College Fresher.
- - 👀 I’m interested in coding and stuff. I am looking forward to learn new things about computer and technology..
- - 🌱 I’m currently studying in one of the top most institution in India, Vellore Institute of Technology..
- 
-## 🛠️ what am doing right now
-- 📚 dealing with college
-- </> improving programming skills
-- 💪 working on myself
-- 🕷️ meeting new people in this contemporary world :)
-
-## Some languages I speak with machines🧑‍💻
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cpp&theme=dark)](https://skillicons.dev)
-
-<hr>
-
-[![My Skills](https://skillicons.dev/icons?i=git,mysql,mongodb,express,react,nodejs&theme=dark)](https://skillicons.dev)
+# 💫 About Me:
+🔭 I’m currently Pursuing B.Tech at VITC Unity - 2nd year <br>👀 I’m interested in coding and stuff. I am looking forward to learn new things about computer and technology..<br>📚 dealing with college<br></> improving programming skills<br>🕷️ meeting new people in this contemporary world :)<br>⚡ Fun fact - I am Noob at programming 
 
 
-## 🤝 connect with me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ash_if_107) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ashif-k-m) 
 
-[![My Skills](https://skillicons.dev/icons?i=instagram,discord,linkedin)](https://skillicons.dev)<br>
-<a href="https://www.instagram.com/ash_if_107/?next=%2F">
-Instagram
-</a> @ash_if_107<br>
-<a href="https://discord.com/channels/@me">
-Discord
-</a> @Mugiwara-no-ash <br>
-<a href="http://itzashif.me/">
-Website
-</a> My portfolio<br>
-<a href="https://www.linkedin.com/in/mohamed-ashif-k-m-b7b328290/">
-Linkedin
-</a>Mohamed Ashif K M
+## 🧑‍💻 Some languages I speak with machines
+### Programming Languages
 
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,arduino&theme=dark)](https://skillicons.dev)
+
+### Frontend 
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,next,tailwind,bootstrap,sass,threejs&theme=dark)](https://skillicons.dev)
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=git,mysql,mongodb,express,nodejs,bun&theme=dark)](https://skillicons.dev)
+
+### Web3
+[![My Skills](https://skillicons.dev/icons?i=solidity&theme=dark)](https://skillicons.dev), Truffle, HardhatJs
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ashif-107&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ashif-107&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashif-107&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ashif-107&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ashif-107&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ashif-107&icon=0&color=13)](https://visitcount.itsvg.in)
