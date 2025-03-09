@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/b2d281e0-ef9b-4d30-9eee-be1a2e485c00)
 
 # 💫 About Me:
-🔭 I’m currently Pursuing B.Tech at VITC Unity - 2nd year <br>📚 dealing with college<br></> improving programming skills<br>🕷️ meeting new people in this contemporary world :)<br> 🎮 A Gamer and Game A Developer <br>⚡ Fun fact - I am Noob at programming 
+🔭 I’m currently Pursuing B.Tech at VITC Unity - 2nd year <br>📚 dealing with college<br></> improving programming skills<br>🕷️ meeting new people in this contemporary world :)<br> 🎮 A Gamer and A Game Developer <br>⚡ Fun fact - I am Noob at programming 
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,ts&theme=dark)](https://skillicons.dev)
 
 ### Frontend 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,next,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,next,svelte,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=git,mysql,mongodb,express,nodejs,bun&theme=dark)](https://skillicons.dev)
