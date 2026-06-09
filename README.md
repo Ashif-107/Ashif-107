@@ -1,8 +1,10 @@
 ![image](https://github.com/user-attachments/assets/b2d281e0-ef9b-4d30-9eee-be1a2e485c00)
 
-# 💫 About Me:
-🔭 I’m currently Pursuing B.Tech at VITC Unity - 2nd year <br>📚 dealing with college<br></> improving programming skills<br>🕷️ meeting new people in this contemporary world :)<br> 🎮 A Gamer and A Game Developer <br>⚡ Fun fact - I am Noob at programming 
+## Hey there 👋
 
+I'm Ashif, a Full Stack Developer and Game Developer who enjoys building things across the entire stack from React frontends and cloud infrastructure to Unity games and systems programming.
+
+🔭 I’m currently Pursuing B.Tech at VITC University - 4th year <br>📚 dealing with college<br></> improving programming skills<br>🕷️ meeting new people in this contemporary world :)<br> 🎮 A Gamer and A Game Developer <br>⚡ Fun fact - I am Noob at programming 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ash_if_107) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ashif-k-m) 
@@ -10,13 +12,13 @@
 ## 🧑‍💻 Some languages I speak with machines
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,ts,rust&theme=dark)](https://skillicons.dev)
 
 ### Frontend 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,next,svelte,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=git,mysql,mongodb,express,nodejs,bun&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,mysql,mongodb,express,nodejs,bun,flask&theme=dark)](https://skillicons.dev)
 
 ### Web3
 [![My Skills](https://skillicons.dev/icons?i=solidity&theme=dark)](https://skillicons.dev), Truffle, HardhatJs
