@@ -31,14 +31,15 @@ I'm Ashif, a Full Stack Developer and Game Developer who enjoys building things 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ashif-107&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashif-107&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ashif-107&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Recent Contributions
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashif-107&theme=midnight-purple)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ashif-107&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ashif-107&icon=0&color=13)](https://visitcount.itsvg.in)
